@@ -1,0 +1,21 @@
+What is the difference between var, let, and const?
+A.
+How do you create a function in JavaScript? Provide an example.
+What are JavaScript data types? List them.
+How can you convert a string to a number in JavaScript?
+Explain the difference between == and ===.
+How do you find the length of an array?
+How do you add an element to the end of an array?
+How do you remove the first element from an array?
+How can you create a multiline string in JavaScript?
+What is a template literal and how do you use it?
+How do you check if a value is an array in JavaScript?
+What is the purpose of the typeof operator? Provide examples.
+How can you create a JavaScript object? Provide an example.
+How do you access properties of an object?
+Explain what a callback function is with an example.
+How can you handle exceptions in JavaScript?
+What is the difference between null and undefined?
+How do you loop through the properties of an object?
+What is a closure in JavaScript?
+How can you create a promise in JavaScript? Provide an example.
